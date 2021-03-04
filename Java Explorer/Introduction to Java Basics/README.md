@@ -32,3 +32,9 @@
 - Set the proper JDK
 - Install NetBeans
 - Test whether NetBeans starts and runs
+
+- [Oracle Cloud Developer Image] (https://cloudmarketplace.oracle.com/marketplace/en_US/adf.task-flow?tabName=O&adf.tfDoc=%2FWEB-INF%2Ftaskflow%2Fadhtf.xml&application_id=54030984&adf.tfId=adhtf)
+
+- To run the server :
+    - ssh -L 5901:localhost:5901 -i /Users/ahmetgogebakan/Desktop/demossh opc@140.238.213.216 
+    - Tiger VNC Viewer
