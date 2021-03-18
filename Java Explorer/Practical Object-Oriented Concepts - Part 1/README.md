@@ -33,7 +33,10 @@
 - The owner asks the dog to fetch the toy. After the dog has fetched the toy, the dog plays with the toy. This scenario is called a Use Case. It is where object-oriented starts. A Use Case describes the objects that will be used to create the application. It also describes what messages(behaviors) an object understands. What things do you typically work with in this use case? In the Dog Domain, we work with;
     - Dogs, owners, dog toys
 
-![An example of object-oriented concept](object-oriented.png)
+<p align="center">
+  <img src="object-oriented.png"/>
+</p>
+
 - We use a Class to specify the design of our objects
 - A Object is a specific instance of a Class at run time
 
